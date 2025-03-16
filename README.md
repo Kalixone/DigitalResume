@@ -33,6 +33,4 @@ The resume consists of the following key sections:
 ---
 
 ## 🌎 Live Demo
-You can check out the live version of **DigitalResume** here:  
-
-👉 [DigitalResume Live Demo](https://kalixone.github.io/DigitalResume/)
+You can check out the live version of **DigitalResume** here -> [DigitalResume Live Demo](https://kalixone.github.io/DigitalResume/)
