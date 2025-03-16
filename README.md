@@ -2,6 +2,8 @@
 
 DigitalResume is a personal resume website built using HTML and CSS. It provides a structured and visually appealing way to showcase my skills, experience, and projects in an interactive format. The website serves as a digital CV, making it easier for recruiters and potential collaborators to learn more about me.
 
+---
+
 ## 🚀 Features & Functionalities
 - **Clean & Modern Design** – Minimalistic layout that ensures readability and ease of navigation.
 - **Well-structured Sections** – Information is presented in an organized manner for easy access.
